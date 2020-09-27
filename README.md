@@ -10,4 +10,8 @@ InformADN est un projet qui donne des informations sur un brin d'ADN choisit par
 
 # 📚 Comment l'utilisé? 📚
 
-Par exemple que j'ai le programme déjà installé [**(Voir plus bas)**](
+Par exemple que j'ai le programme [**déjà installé**](https://github.com/Plattyz/InformADN/blob/master/README.md#L17) alors je n'ai qu'à entrer le brin d'ADN voulu (Eg: ATTGCGCGATT) Et le programme s'occupera de me donner les résultats dans un fichier préconçus.
+
+# 📲 Comment l'installer? 📲
+
+Il vous suffit de télécharger le fichier .exe dans le dossier et de l'éxecuter. Ensuite, il ne vous reste plus qu'à [**l'utiliser**](https://github.com/Plattyz/InformADN/blob/master/README.md#L13) comme il se doit.
