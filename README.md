@@ -21,4 +21,4 @@ Il vous suffit de télécharger le fichier .exe dans le dossier et de l'éxecute
 
 PS: Veuillez prendre note que ce n'est que la version 1 du programme et qu'il y aura des updates!
 
-![alt text](https://wallpaperaccess.com/full/339922.jpg)
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/829071162627590201/26C54738AC9D530377051978E063A24C79F007C4/)
