@@ -6,7 +6,7 @@
 
 # ❓ InformADN: C'est quoi? ❓ 
 
-InformADN est un projet qui donne des informations sur un brin d'ADN choisit par l'utilisateur. 
+InformADN est un projet avec un code open source qui donne des informations sur un brin d'ADN choisit par l'utilisateur. 
 
 # 📚 Comment l'utilisé? 📚
 
@@ -15,3 +15,10 @@ Par exemple que j'ai le programme [**déjà installé**](https://github.com/Plat
 # 📲 Comment l'installer? 📲
 
 Il vous suffit de télécharger le fichier .exe dans le dossier et de l'éxecuter. Ensuite, il ne vous reste plus qu'à [**l'utiliser**](https://github.com/Plattyz/InformADN/blob/master/README.md#L13) comme il se doit.
+
+
+# J'éspère que le projet vous plaira!
+
+PS: Veuillez prendre note que ce n'est que la version 1 du programme et qu'il y aura des updates!
+
+![alt text](https://wallpaperaccess.com/full/339922.jpg)
