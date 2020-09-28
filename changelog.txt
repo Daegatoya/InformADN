@@ -1,0 +1,38 @@
+### V1: 
+
+(Beta) Résultats: ADN, ARN Messager et ADN Affilé.
+
+Source Wikipedia et processus directement dans la console.
+
+Code open source.
+
+Création d'un fichier stockage pour informations 
+
+Images d'aide
+
+
+### V1.1:
+
+# À venir: 
+
+Codon de départ null ou pas.
+
+Codon de fin.
+
+
+### V1.2:
+
+# À venir:
+
+Division en codon.
+
+ARN de transfert.
+
+
+### V1.3:
+
+# À venir:
+
+Acides aminés associés.
+
+- Plus à venir.
