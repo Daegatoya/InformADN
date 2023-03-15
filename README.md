@@ -23,7 +23,7 @@ PS: Veuillez prendre note que ce n'est que la version 1 du programme et qu'il y 
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
